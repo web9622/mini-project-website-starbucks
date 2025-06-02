@@ -1,5 +1,3 @@
-안녕<br>하이
-
 > 스타벅스 홈페이지
 >> HTML/CSS3/JAJASCRIPT
 
