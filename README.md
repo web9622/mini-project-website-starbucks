@@ -1,5 +1,5 @@
-> 스타벅스 홈페이지
->> HTML/CSS3/JAJASCRIPT
+# 스타벅스 홈페이지
+## HTML/CSS3/JAJASCRIPT
 
 | 헤더 | 헤더 | 헤더 |
 |---|:---|---:|
